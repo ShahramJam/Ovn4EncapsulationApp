@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Ovn4EncapsulationApp/Ovn4EncapsulationApp.csproj" />
+  <Project Path="Ovn4EncapsulationAppTest/Ovn4EncapsulationAppTest.csproj" Id="c55527d0-8ef4-43e3-b623-4fd05a64d19a" />
+</Solution>
